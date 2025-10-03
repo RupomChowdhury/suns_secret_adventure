@@ -1,6 +1,6 @@
-# The Sun's Secret Adventure
+<h1 align="center"> The Sun's Secret Adventure </h1>
 
-![App Logo/Title Screen](https://i.imgur.com/OaBvIF5.png)
+![Aurora Weavers The Sun's Secret Adventure](https://i.imgur.com/OaBvIF5.png)
 
 **Team:** Aurora Weavers
 **Challenge:** [Stellar Stories: Space Weather Through the Eyes of Earthlings](https://www.spaceappschallenge.org/2025/challenges/stellar-stories-space-weather-through-the-eyes-of-earthlings/) (NASA Space Apps Challenge 2025)
