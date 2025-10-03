@@ -38,6 +38,9 @@ Our solution is a mobile application that serves as a multi-faceted educational 
 
 [**Watch our 240-second pitch video here!**](https://youtu.be/FEICQz2XTOU)
 
+
+[**Live Prototype Link!**](https://rupom.dev/suns_secret_adventure)
+
 ## Key Features
 
 * **Interactive & Personalized Story Mode**: Users begin by entering their name and choosing an avatar to become the hero of the adventure.
