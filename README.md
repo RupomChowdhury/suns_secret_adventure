@@ -54,7 +54,7 @@ Our solution is a mobile application that serves as a multi-faceted educational 
 ## Technology Stack & Resources
 
 ### Development Tools
-* **Backend / Frontend:** `[Flutter]`
+* **Backend / Frontend:** `Flutter`
 * **UI/UX Design:** `Figma, Canva`
 
 ### AI & Generative Tools for Video Production
