@@ -62,8 +62,6 @@ Our team leveraged several AI services to accelerate the creation of our video p
 * **ChatGPT & Google Gemini:** Used for brainstorming, scriptwriting for the narration, and generating concise educational text within the app.
 * **HeyGen:** Utilized for creating animated sequences and character presentations in our educational videos.
 * **Evernote (AI Text to Voice) & ElevenLabs:** Employed to generate the clear and engaging voiceover narration for the prototype videos.
-* **Midjourney:** Used to generate concept art and unique visual assets for characters and backgrounds.
-* **RunwayML:** Assisted in video editing, applying effects, and generating dynamic B-roll footage.
 
 ### NASA Resources
 * **Data:** **NASA DONKI (Database Of Notifications, Knowledge, Information)** API for real-time space weather alerts.
