@@ -35,9 +35,8 @@ Our solution is a mobile application that serves as a multi-faceted educational 
 
 [**Watch our 30-second pitch video here!**](https://youtu.be/) 
 
---
 
-[**Watch our 240-second pitch video here!**](https://youtu.be/FEICQz2XTOU) ---
+[**Watch our 240-second pitch video here!**](https://youtu.be/FEICQz2XTOU)
 
 ## Key Features
 
