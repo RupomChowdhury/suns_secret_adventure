@@ -33,7 +33,7 @@ Our solution is a mobile application that serves as a multi-faceted educational 
 
 ### Live Demo / Prototype Video
 
-* [**Watch our 30-second of Glory video here!**](https://youtu.be/Q4KY9hb-aoo) 
+* [**Watch our 30-second of Glory video here!**](https://youtu.be/yXAKVN9Hu5w) 
 
 
 * [**Watch our 240-second of Glory video here!**](https://youtu.be/FEICQz2XTOU)
