@@ -1,6 +1,6 @@
 # The Sun's Secret Adventure
 
-![App Logo/Title Screen](https://i.imgur.com/qLgT2oG.png)
+![App Logo/Title Screen](https://i.imgur.com/Rkfjf9b.png)
 
 **Team:** Aurora Weavers
 **Challenge:** [Stellar Stories: Space Weather Through the Eyes of Earthlings](https://www.spaceappschallenge.org/2025/challenges/stellar-stories-space-weather-through-the-eyes-of-earthlings/) (NASA Space Apps Challenge 2025)
@@ -33,7 +33,8 @@ Our solution is a mobile application that serves as a multi-faceted educational 
 
 ### Live Demo / Prototype Video
 
-[**Watch our 30-second pitch video here!**](https://www.youtube.com/your-video-link) [**Watch the full app walkthrough here!**](https://www.youtube.com/your-full-demo-link) ---
+[**Watch our 30-second pitch video here!**](https://youtu.be/) 
+[**Watch our 240-second pitch video here!**](https://youtu.be/FEICQz2XTOU) ---
 
 ## Key Features
 
