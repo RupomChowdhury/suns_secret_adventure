@@ -33,13 +33,13 @@ Our solution is a mobile application that serves as a multi-faceted educational 
 
 ### Live Demo / Prototype Video
 
-[**Watch our 30-second pitch video here!**](https://youtu.be/) 
+* [**Watch our 30-second pitch video here!**](https://youtu.be/) 
 
 
-[**Watch our 240-second pitch video here!**](https://youtu.be/FEICQz2XTOU)
+* [**Watch our 240-second pitch video here!**](https://youtu.be/FEICQz2XTOU)
 
 
-[**Live Prototype Link!**](https://rupom.dev/suns_secret_adventure)
+* [**Live Prototype Link!**](https://rupom.dev/suns_secret_adventure)
 
 ## Key Features
 
